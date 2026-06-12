@@ -25,8 +25,8 @@
 |---------|-------------|-------|
 | 🤖 [pytest-ai-agent](https://github.com/vkmech999/pytest-ai-agent) | Auto-generate PyTest cases for FastAPI routes using Claude | Python · MCP · FastAPI |
 | ⚡ [fastapi-mcp-server](https://github.com/vkmech999/fastapi-mcp-server) | Turn any FastAPI app into a Claude MCP server instantly | Python · MCP · OpenAPI |
-| 📋 [dev-standup-bot](https://github.com/vkmech999/dev-standup-bot) | AI standup generator — pulls GitHub + GitLab + Jira data | Python · Claude AI · APIs |
-| 🏥 [rural-health-ai](https://github.com/vkmech999/rural-health-ai) | AI health assistant for rural India in Hindi + English | FastAPI · Claude · React |
+| 📋 [dev-standup-bot](https://github.com/vkmech999/dev-standup-bot)(coming soon) | AI standup generator — pulls GitHub + GitLab + Jira data | Python · Claude AI · APIs |
+| 🏥 [rural-health-ai](https://github.com/vkmech999/rural-health-ai)(coming soon) | AI health assistant for rural India in Hindi + English | FastAPI · Claude · React |
 
 ---
 
