@@ -4,7 +4,8 @@
 
 🏢 Currently @ **HCLTech** — Building enterprise courier platforms with FastAPI, React.js & ActiveMQ  
 📍 Narnaul, Haryana, India | 🌍 Open to **Global Remote Roles** (USA · UK · Germany · UAE)  
-🎓 Certified in **Claude AI**, **Claude Code**, and **MCP** by Anthropic
+🎓 Certified in **Claude AI**, **Claude Code**, and **MCP** by Anthropic  
+🤖 Currently going deep on **Agentic AI** — building multi-agent systems with CrewAI
 
 ---
 
@@ -13,6 +14,7 @@
 **Backend:** Python · FastAPI · Django · REST APIs · WebSockets · Microservices  
 **Frontend:** React.js · Next.js · JavaScript · HTML5 · CSS3  
 **AI/LLM:** Claude AI · MCP (Model Context Protocol) · AI-Assisted Development  
+**Agentic AI:** CrewAI · Multi-Agent Systems · Agent Orchestration · Tool-Use · RAG  
 **Messaging:** ActiveMQ · Event-Driven Architecture  
 **DevOps:** Docker · AWS · GitLab CI/CD · SonarQube  
 **Testing:** PyTest · Jest · WDIO
@@ -25,8 +27,7 @@
 |---------|-------------|-------|
 | 🤖 [pytest-ai-agent](https://github.com/vkmech999/pytest-ai-agent) | Auto-generate PyTest cases for FastAPI routes using Claude | Python · MCP · FastAPI |
 | ⚡ [fastapi-mcp-server](https://github.com/vkmech999/fastapi-mcp-server) | Turn any FastAPI app into a Claude MCP server instantly | Python · MCP · OpenAPI |
-| 📋 [dev-standup-bot](https://github.com/vkmech999/dev-standup-bot)(coming soon) | AI standup generator — pulls GitHub + GitLab + Jira data | Python · Claude AI · APIs |
-| 🏥 [rural-health-ai](https://github.com/vkmech999/rural-health-ai)(coming soon) | AI health assistant for rural India in Hindi + English | FastAPI · Claude · React |
+| 🧑‍💻 [tech_team](https://github.com/vkmech999/tech_team) | Autonomous AI engineering crew — 4 agents design, code, build a Gradio UI & test a Python app from a plain-English spec | CrewAI · Multi-Agent · MCP · Docker |
 
 ---
 
@@ -35,6 +36,9 @@
 - ✅ Claude Code in Action — Anthropic  
 - ✅ Introduction to Model Context Protocol (MCP) — Anthropic
 - ✅ Python Full Stack Development Certification
+
+### 📚 Currently Learning
+- 🤖 Agentic AI — multi-agent orchestration with CrewAI, MCP & tool-use
 
 ---
 
